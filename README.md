@@ -1,0 +1,1 @@
+# jboss-sample-war-Dockerfile
